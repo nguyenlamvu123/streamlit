@@ -1,0 +1,4 @@
+streamlit
+opencv-python-headless
+#opencv-python==3.4.9.33
+Pillow
