@@ -1,1 +1,2 @@
-https://www.loginradius.com/blog/engineering/guest-post/opencv-web-app-with-streamlit/
+https://notebook.community/scikit-image/skimage-demos/pano/pano
+#https://www.loginradius.com/blog/engineering/guest-post/opencv-web-app-with-streamlit/
